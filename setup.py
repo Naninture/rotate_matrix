@@ -16,17 +16,17 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
   name='rotate_matrix',
-  version='0.0.4',
+  version='0.0.5',
   description='Rotate any matrix of any type, either clockwise or anti-clockwise instantly.',
   long_description=long_description,
   long_description_content_type='text/markdown',
   url='https://github.com/Naninture/rotate_matrix.git',  
-  download_url = 'https://github.com/Naninture/rotate_matrix/archive/0.0.4.tar.gz',
+  download_url = 'https://github.com/Naninture/rotate_matrix/archive/0.0.5.tar.gz',
   author='Udipta/Naninture',
   author_email='uddipta2255@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords=['matrix','rotate matrix','rotate 2D array','rotate array'], 
+  keywords=['matrix','rotate matrix','rotate 2D array','rotate array','matrix rotation','2-D array rotation','rotate 2-D array','array rotation','2-D array rotation','rotation','clockwise','anticlockwise','clockwise rotation','anti-clockwise rotation'], 
   packages=find_packages(),
   install_requires=[''],
 )
