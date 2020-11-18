@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+rotate_matrix/__init__.py
+rotate_matrix.egg-info/PKG-INFO
+rotate_matrix.egg-info/SOURCES.txt
+rotate_matrix.egg-info/dependency_links.txt
+rotate_matrix.egg-info/top_level.txt

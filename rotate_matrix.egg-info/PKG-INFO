@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: rotate-matrix
+Version: 0.0.2
+Summary: Rotate any matrix of any type, either clockwise or anti-clockwise instantly.
+Home-page: UNKNOWN
+Author: Udipta/Naninture
+Author-email: uddipta2255@gmail.com
+License: MIT
+Description: ROTATE MATRIX:
+        
+        Rotate any matrix of any type, either clockwise or anti-clockwise instantly. 
+        
+        Contains two functions:
+        
+        1) clockwise: Takes l as parameter which is of type list, and pases the clockwised rotated version list l.
+        
+        2) anti-clockwise: Takes l as parameter which is of type list, and passes the anti-clockwise rotated version of list l.
+        
+        
+Keywords: rotate matrix
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
