@@ -10,25 +10,16 @@ classifiers = [
  
 setup(
   name='rotate_matrix',
-  version='0.0.2',
+  version='0.0.4',
   description='Rotate any matrix of any type, either clockwise or anti-clockwise instantly.',
-  long_description='''ROTATE MATRIX:
-
-Rotate any matrix of any type, either clockwise or anti-clockwise instantly. 
-
-Contains two functions:
-
-1) clockwise: Takes l as parameter which is of type list, and pases the clockwised rotated version list l.
-
-2) anti-clockwise: Takes l as parameter which is of type list, and passes the anti-clockwise rotated version of list l.
-
-''',
-  url='',  
+  long_description= open('README.md').read(),
+  url='https://github.com/Naninture/rotate_matrix.git',  
+  download_url = 'https://github.com/Naninture/rotate_matrix/archive/0.0.2.tar.gz',
   author='Udipta/Naninture',
   author_email='uddipta2255@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='rotate matrix', 
+  keywords=['matrix','rotate matrix','rotate 2D array','rotate array'], 
   packages=find_packages(),
   install_requires=[''],
 )
